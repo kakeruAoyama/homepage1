@@ -27,7 +27,7 @@ header {
 
 
 #first-block {
-  background-image: url("../images/fry.jpg");
+  background-image: url("fry.jpg");
   background-repeat: no-repeat;
   background-size: cover;
   height: 150vh;
